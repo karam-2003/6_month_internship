@@ -1,0 +1,85 @@
+Data Engineering & Preprocessing
+Day 31
+
+Loaded raw crop yield dataset into Pandas.
+
+Day 32
+
+Handled missing values using statistical methods.
+
+Day 33
+
+Performed outlier detection and removal.
+
+Day 34
+
+Encoded categorical features (soil type, crop type).
+
+Day 35
+
+Merged weather and agricultural datasets.
+
+Day 36
+
+Performed feature scaling where required.
+
+Day 37
+
+Created processed dataset version.
+
+Day 38
+
+Conducted exploratory data analysis (EDA).
+
+Day 39
+
+Generated correlation heatmaps.
+
+Day 40
+
+Analyzed feature distributions.
+
+Day 41
+
+Studied feature importance concepts.
+
+Day 42
+
+Prepared dataset for ML model training.
+
+Day 43
+
+Split data into training and testing sets.
+
+Day 44
+
+Validated dataset consistency.
+
+Day 45
+
+Documented data preprocessing pipeline.
+
+Day 46
+
+Reviewed dataset statistics.
+
+Day 47
+
+Prepared processed dataset for model experimentation.
+
+Day 48
+
+Mentor review of preprocessing phase.
+
+Day 49
+
+Refined feature engineering approach.
+
+Day 50
+
+Finalized clean dataset.
+
+Day 51–60
+
+Repeated experiments, validation, and dataset optimization.
+Prepared data notebooks for reproducibility.
