@@ -1,0 +1,64 @@
+Machine Learning Model Development
+Day 61
+
+Implemented Linear Regression model.
+
+Day 62
+
+Evaluated Linear Regression performance.
+
+Day 63
+
+Implemented Gradient Boosting Regressor.
+
+Day 64
+
+Evaluated Gradient Boosting results.
+
+Day 65
+
+Implemented Random Forest Regressor.
+
+Day 66
+
+Performed hyperparameter tuning of Random Forest.
+
+Day 67
+
+Compared all model performances.
+
+Day 68
+
+Selected Random Forest as best-performing model.
+
+Day 69
+
+Computed evaluation metrics: R², RMSE, MAE.
+
+Day 70
+
+Generated feature importance plots.
+
+Day 71
+
+Saved trained models using Joblib.
+
+Day 72
+
+Created prediction utility functions.
+
+Day 73
+
+Validated predictions on unseen data.
+
+Day 74
+
+Prepared detailed model documentation.
+
+Day 75
+
+Mentor review of ML models.
+
+Day 76–90
+
+Model optimization, performance testing, and final model selection.
