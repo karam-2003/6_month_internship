@@ -1,0 +1,120 @@
+Orientation & Problem Understanding
+Day 1
+
+Orientation session at REQServe. Introduction to organization workflow, internship objectives, and agricultural intelligence problem statement.
+
+Day 2
+
+Studied existing agricultural challenges related to weather dependency and crop yield variability.
+
+Day 3
+
+Researched real-world applications of Machine Learning in agriculture and smart farming.
+
+Day 4
+
+Analyzed similar crop yield prediction systems and identified limitations.
+
+Day 5
+
+Learned basics of agricultural datasets, crop cycles, and seasonal dependencies.
+
+Day 6
+
+Explored weather parameters affecting agriculture (rainfall, temperature, humidity).
+
+Day 7
+
+Requirement analysis discussion with mentor; finalized project scope.
+
+Day 8
+
+Studied OpenWeather API documentation and API response formats.
+
+Day 9
+
+Practiced Python data handling using Pandas and NumPy.
+
+Day 10
+
+Explored machine learning regression concepts for yield prediction.
+
+Day 11
+
+Understood Streamlit framework basics for dashboard development.
+
+Day 12
+
+Reviewed dataset structure and identified relevant features.
+
+Day 13
+
+Studied data preprocessing techniques: missing values and outliers.
+
+Day 14
+
+Prepared initial project architecture diagram.
+
+Day 15
+
+Documented problem statement, objectives, and system overview.
+
+Day 16
+
+Explored Scikit-learn regression models.
+
+Day 17
+
+Studied Random Forest algorithm in detail.
+
+Day 18
+
+Reviewed Gradient Boosting and Linear Regression models.
+
+Day 19
+
+Understood evaluation metrics: R², RMSE, MAE.
+
+Day 20
+
+Set up development environment and GitHub repository.
+
+Day 21
+
+Uploaded initial README and project structure.
+
+Day 22
+
+Explored synthetic agricultural datasets.
+
+Day 23
+
+Identified data quality issues and preprocessing requirements.
+
+Day 24
+
+Practiced feature encoding techniques.
+
+Day 25
+
+Reviewed model selection strategies.
+
+Day 26
+
+Created basic data exploration notebook.
+
+Day 27
+
+Analyzed correlations between weather parameters and yield.
+
+Day 28
+
+Prepared initial EDA visualizations.
+
+Day 29
+
+Mentor review and feedback session.
+
+Day 30
+
+Finalized Month-1 learning summary and documentation.
